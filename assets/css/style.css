@@ -20,11 +20,6 @@ body{
     border-bottom-style: solid;
 }
 
-.card-img-top{
-    /* height: 13%; */
-    /* width: auto; */
-}
-
 #img_prueba{
     /* height: 13%; */
     width: auto;
@@ -35,3 +30,11 @@ body{
     color: white;
 }
 
+footer{
+    background-color: deepskyblue;
+    color: white;
+}
+
+.logo_footer{
+    vertical-align: middle;
+}
