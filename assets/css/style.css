@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    background-size: cover;
+    color: white;
+}
+
+.encabezado-quienes_somos{
+    background-color: deepskyblue;
+
+}
+
+.fa-solid{
+    background-color: deepskyblue;
+    color: white;
+}
+
+.border_azul {
+    border-bottom-width: 1;
+    border-bottom-color: deepskyblue;
+    border-bottom-style: solid;
+}
