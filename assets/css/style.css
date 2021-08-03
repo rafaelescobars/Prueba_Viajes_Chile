@@ -4,6 +4,11 @@ body{
     color: white;
 }
 
+body a{
+    color: white;
+    text-decoration: none;
+}
+
 .encabezado-quienes_somos{
     background-color: deepskyblue;
 
@@ -30,6 +35,10 @@ body{
     color: white;
 }
 
+#footer_align{
+    vertical-align: middle;
+}
+
 footer{
     background-color: deepskyblue;
     color: white;
@@ -37,4 +46,8 @@ footer{
 
 .logo_footer{
     vertical-align: middle;
+}
+
+.fa{
+    height: 100%;
 }
